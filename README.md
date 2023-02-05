@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently making machine learning models with credit risk, topic models, word embedding and related topics, and doing empirical analysis in spatial economics and [long panels].
-If you would like to discuss these things, you can open new issues in  my [tutoring2] repo.
+I am currently working with machine learning models in the areas of credit risk, topic models, word embedding and related topics, and conducting empirical analysis in spatial economics and [long panels] data. If you would like to discuss these topics, please open a new issue in my [tutoring2] repo. 
 
-I also have some non-coding things that I update on occasion, for example, my
-*[workout notes]*, game notes in *[nintendo_switch_mario]*.
+In addition to coding, I also occasionally update some non-coding things, such as my *[workout notes]* and game notes in *[nintendo_switch_mario]*.
 
 [workout notes]: https://jiaxiangbu.github.io/learn_workout/learning_notes.html
 [nintendo_switch_mario]: https://github.com/JiaxiangBU/nintendo_switch_mario
