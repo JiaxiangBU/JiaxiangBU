@@ -19,7 +19,7 @@ I am currently working with machine learning models in the areas of credit risk,
 
 In addition to coding, I also occasionally update some non-coding things, such as my *[workout notes]* and game notes in *[nintendo_switch_mario]*.
 
-[workout notes]: https://jiaxiangbu.github.io/learn_workout/learning_notes.html
+[workout notes]: https://jiaxiangbu.github.io/learn_workout/fitness_notes_gitbook.html
 [nintendo_switch_mario]: https://github.com/JiaxiangBU/nintendo_switch_mario
 [long panels]: https://github.com/JiaxiangBU/usd-data-analysisEX
 [tutoring2]: https://github.com/JiaxiangBU/tutoring2/issues
