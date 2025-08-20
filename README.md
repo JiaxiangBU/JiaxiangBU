@@ -1,25 +1,21 @@
 ### Hi there 👋
 
-<!--
-**JiaxiangBU/JiaxiangBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning Algorithm Engineer specializing in financial risk control and quantitative analysis. My work focuses on developing robust models and data-driven solutions for risk assessment.
 
-Here are some ideas to get you started:
+### 🔧 Technical Expertise
+- Machine Learning Algorithms for Financial Risk Control
+- Credit Risk Modeling & Default Prediction
+- Statistical Analysis & Predictive Analytics
+- Natural Language Processing for Risk Assessment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- Advanced machine learning applications in financial services
+- Real-time risk monitoring systems
 
-I am currently working with machine learning models in the areas of credit risk, topic models, word embedding and related topics, and conducting empirical analysis in spatial economics and [long panels] data. If you would like to discuss these topics, please open a new issue in my [tutoring2] repo. 
+### 📫 Let's Connect
+Feel free to reach out for discussions on machine learning applications in finance or quantitative modeling.
 
-In addition to coding, I also occasionally update some non-coding things, such as my *[workout notes]* and game notes in *[nintendo_switch_mario]*.
+### 🏃‍♂️ Personal Interests
+In my spare time, I enjoy tracking my fitness journey and analyzing the data: [Fitness Analysis Report](https://jiaxiangbu.github.io/learn_workout/fitness_analysis_report.html) and [Workout Notes](https://jiaxiangbu.github.io/learn_workout/fitness_notes_gitbook.html). I also occasionally share thoughts on games like [Nintendo Switch Mario](https://github.com/JiaxiangBU/nintendo_switch_mario).
 
-[workout notes]: https://jiaxiangbu.github.io/learn_workout/fitness_notes_gitbook.html
-[nintendo_switch_mario]: https://github.com/JiaxiangBU/nintendo_switch_mario
-[long panels]: https://github.com/JiaxiangBU/usd-data-analysisEX
-[tutoring2]: https://github.com/JiaxiangBU/tutoring2/issues
+For questions and discussions from online friends, I maintain a [tutoring repository](https://github.com/JiaxiangBU/tutoring2/issues).
